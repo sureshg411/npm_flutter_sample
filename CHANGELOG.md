@@ -1,11 +1,21 @@
-## 0.0.1
+## [0.0.5] - 08/02/2022
 
-* TODO: Describe initial release 1.
+* Dart 5 support
 
-## 0.0.2
+## [0.0.4] - 08/02/2022
 
-* TODO: Describe initial release 2.
+* Dart 4 support
 
-## 0.0.3
+## [0.0.3] - 08/02/2022
 
-* TODO: Describe initial release 3.
+* Dart 3 support
+
+## [0.0.2] - 08/02/2022
+
+* Dart 2 support
+
+## [0.0.1] - 08/02/2022
+
+* Dart 1 support
+
+

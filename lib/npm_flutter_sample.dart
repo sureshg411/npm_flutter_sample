@@ -1,3 +1,4 @@
+library npm_flutter_sample;
 import 'package:flutter/material.dart';
 
 void main() {
