@@ -1,9 +1,9 @@
 name: npm_flutter_library
 description: A new Flutter package project.
-#version: 0.0.2
+version: 0.0.3
 ##author: Suresh G <suresh.g@nuncsystems.com>
 #homepage: https://github.com/sureshg411/npm_flutter_sample
-version: 1.0.0+1
+#version: 1.0.0+1
 
 
 environment:
