@@ -1,5 +1,9 @@
 name: npm_flutter_sample
 description: A new Flutter project.
+#version: 0.0.2
+#homepage: https://github.com/sureshg411/npm_flutter_sample
+#version: 0.0.2
+#author: Parth Patel <parthp582000@gmail.com>
 homepage: https://github.com/sureshg411/npm_flutter_sample
 
 # The following line prevents the package from being accidentally published to
